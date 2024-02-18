@@ -104,4 +104,5 @@ img {
     font-style: italic;
     margin-top: -4%;
     padding-left: 8%;
+    box-sizing: border-box;
 }
